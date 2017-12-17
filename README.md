@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Golf Tourney Scoring
 
-You can use the [editor on GitHub](https://github.com/Estreff/auth_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Golf Tourney Scoring is a web application used for tracking scores and managing a multiplayer golf tournament.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Deployment
 
-### Markdown
+This application can be cloned and run by opening the index.html in a web browser
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+* HTML
+* Bootstrap CSS
+* JavaScript
+* jQuery
 
-# Header 1
-## Header 2
-### Header 3
+## Contributing
 
-- Bulleted
-- List
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-1. Numbered
-2. List
+## Authors
 
-**Bold** and _Italic_ and `Code` text
+* **Nick Devereaux** - *Scoreboards* - [nsd32](https://github.com/nsd32)
+* **Brian Russell** - *Weather functioanality* - [ojshakewell](https://github.com/ojshakewell)
+* **Erik Streff** - *User authendication* - [Estreff](https://github.com/Estreff)
+* **Rob Warren** - *Maps* - [RobW219](https://github.com/RobW219)
 
-[Link](url) and ![Image](src)
-```
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## License
 
-### Jekyll Themes
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Estreff/auth_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Acknowledgments
 
-### Support or Contact
+* **Billie Thompson** - *README-Template.md* - [PurpleBooth](https://github.com/PurpleBooth)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
